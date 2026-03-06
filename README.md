@@ -4,7 +4,7 @@
 Aplikasi desktop berbasis Python untuk melakukan scraping berita dari website dan menampilkannya dalam bentuk tabel. Dalam aplikasi ini kami mencoba untuk mengimplementasikan hasil pembelajaran selama proyek minggu ke 3. Kami mencoba untuk menggunakan modul yang sudah diberikan sehingga kami bisa mengembangkan aplikasi ini. Kami mencoba untuk scraping salah satu website berita ternama yaitu KOMPAS.com
 
 ## Fitur
-- Input URL website (KOMPAS.COM)
+- Input URL website (KOMPAS.com)
 - Menentukan jumlah berita (LIMIT)
 - Menampilkan data berita (VISUALISASI TABEL)
 - Export ke Excel
