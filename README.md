@@ -17,7 +17,7 @@ Aplikasi desktop berbasis Python untuk melakukan scraping berita dari website da
 
 ## Instalasi
 - Clone repository
-- git clone https://github.com/username/news-scraper.git
+- git clone https://github.com/username/Scraping-Berita-D5.git
 - Masuk ke folder project
 - cd news-scraper
 - Install dependency
