@@ -28,9 +28,11 @@ Jalankan program dengan perintah mengetik command di Terminal : python main.py
 
 ## Tampilan Aplikasi
 -UI/UX
+
 <img width="799" height="631" alt="{CB6509EE-4F14-44CB-9703-622F29EC8792}" src="https://github.com/user-attachments/assets/4c1b9447-811f-4554-9aaa-1df25a1ac192" />
 
 -Final
+
 <img width="797" height="627" alt="Screenshot 2026-03-06 120924" src="https://github.com/user-attachments/assets/0270f63f-eb70-45cc-9c60-8af46928f3d6" />
 
 -Hasil Scrapin Excel
